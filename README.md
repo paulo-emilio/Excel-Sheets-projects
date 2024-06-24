@@ -1,6 +1,6 @@
 # Projetos de Análise de Dados com Excel
 
-<--
+<!--
 Este repositório contém uma coleção de projetos de análise de dados desenvolvidos para diferentes contextos e necessidades. Cada projeto utiliza ferramentas como Power BI e outras técnicas de análise para extrair insights valiosos a partir de conjuntos de dados específicos.
 
 ## Lista de Projetos
